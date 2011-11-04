@@ -69,6 +69,7 @@ similar package).
 #- source
 %doc %{_texmfdistdir}/source/latex/pstool/pstool.ins
 %doc %{_texmfdistdir}/source/latex/pstool/pstool.tex
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -79,3 +80,5 @@ similar package).
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
