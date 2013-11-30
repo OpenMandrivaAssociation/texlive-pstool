@@ -1,11 +1,11 @@
-# revision 29343
+# revision 32065
 # category Package
 # catalog-ctan /macros/latex/contrib/pstool
-# catalog-date 2013-03-11 10:36:18 +0100
+# catalog-date 2013-11-04 16:22:51 +0100
 # catalog-license lppl
-# catalog-version 1.5a
+# catalog-version 1.5b
 Name:		texlive-pstool
-Version:	1.5a
+Version:	1.5b
 Release:	1
 Summary:	Support for psfrag within pdfLaTeX
 Group:		Publishing
@@ -44,51 +44,15 @@ any similar package).
 %files
 %{_texmfdistdir}/tex/latex/pstool/pstool.sty
 %doc %{_texmfdistdir}/doc/latex/pstool/README
-%doc %{_texmfdistdir}/doc/latex/pstool/example-blx.bib
 %doc %{_texmfdistdir}/doc/latex/pstool/example-pstool.tex
-%doc %{_texmfdistdir}/doc/latex/pstool/example.aux
-%doc %{_texmfdistdir}/doc/latex/pstool/example.bbl
-%doc %{_texmfdistdir}/doc/latex/pstool/example.blg
-%doc %{_texmfdistdir}/doc/latex/pstool/example.log
-%doc %{_texmfdistdir}/doc/latex/pstool/example.pdf
-%doc %{_texmfdistdir}/doc/latex/pstool/example.run.xml
-%doc %{_texmfdistdir}/doc/latex/pstool/example.synctex
 %doc %{_texmfdistdir}/doc/latex/pstool/example.tex
 %doc %{_texmfdistdir}/doc/latex/pstool/macros.tex
 %doc %{_texmfdistdir}/doc/latex/pstool/pstool.pdf
-%doc %{_texmfdistdir}/doc/latex/pstool/pstool.sty
-%doc %{_texmfdistdir}/doc/latex/pstool/subdir/trial2-psfrag-pstool-blx.bib
-%doc %{_texmfdistdir}/doc/latex/pstool/subdir/trial2-psfrag-pstool.aux
-%doc %{_texmfdistdir}/doc/latex/pstool/subdir/trial2-psfrag-pstool.bbl
-%doc %{_texmfdistdir}/doc/latex/pstool/subdir/trial2-psfrag-pstool.dvi
-%doc %{_texmfdistdir}/doc/latex/pstool/subdir/trial2-psfrag-pstool.log
-%doc %{_texmfdistdir}/doc/latex/pstool/subdir/trial2-psfrag-pstool.ps
-%doc %{_texmfdistdir}/doc/latex/pstool/subdir/trial2-psfrag-pstool.run.xml
-%doc %{_texmfdistdir}/doc/latex/pstool/subdir/trial2-psfrag-pstool.tex
 %doc %{_texmfdistdir}/doc/latex/pstool/subdir/trial2-psfrag.eps
-%doc %{_texmfdistdir}/doc/latex/pstool/subdir/trial2-psfrag.pdf
 %doc %{_texmfdistdir}/doc/latex/pstool/subdir/trial2-psfrag.tex
-%doc %{_texmfdistdir}/doc/latex/pstool/trial-pstool-blx.bib
-%doc %{_texmfdistdir}/doc/latex/pstool/trial-pstool.aux
-%doc %{_texmfdistdir}/doc/latex/pstool/trial-pstool.bbl
-%doc %{_texmfdistdir}/doc/latex/pstool/trial-pstool.dvi
-%doc %{_texmfdistdir}/doc/latex/pstool/trial-pstool.log
-%doc %{_texmfdistdir}/doc/latex/pstool/trial-pstool.ps
-%doc %{_texmfdistdir}/doc/latex/pstool/trial-pstool.run.xml
-%doc %{_texmfdistdir}/doc/latex/pstool/trial-pstool.tex
 %doc %{_texmfdistdir}/doc/latex/pstool/trial.eps
-%doc %{_texmfdistdir}/doc/latex/pstool/trial.pdf
 %doc %{_texmfdistdir}/doc/latex/pstool/trial.tex
-%doc %{_texmfdistdir}/doc/latex/pstool/trial2-pstool-blx.bib
-%doc %{_texmfdistdir}/doc/latex/pstool/trial2-pstool.aux
-%doc %{_texmfdistdir}/doc/latex/pstool/trial2-pstool.bbl
-%doc %{_texmfdistdir}/doc/latex/pstool/trial2-pstool.dvi
-%doc %{_texmfdistdir}/doc/latex/pstool/trial2-pstool.log
-%doc %{_texmfdistdir}/doc/latex/pstool/trial2-pstool.ps
-%doc %{_texmfdistdir}/doc/latex/pstool/trial2-pstool.run.xml
-%doc %{_texmfdistdir}/doc/latex/pstool/trial2-pstool.tex
 %doc %{_texmfdistdir}/doc/latex/pstool/trial2.eps
-%doc %{_texmfdistdir}/doc/latex/pstool/trial2.pdf
 %doc %{_texmfdistdir}/doc/latex/pstool/trial2.tex
 #- source
 %doc %{_texmfdistdir}/source/latex/pstool/pstool.ins
