@@ -1,12 +1,12 @@
-# revision 32065
+# revision 34015
 # category Package
 # catalog-ctan /macros/latex/contrib/pstool
-# catalog-date 2013-11-04 16:22:51 +0100
+# catalog-date 2014-05-11 12:42:16 +0200
 # catalog-license lppl
-# catalog-version 1.5b
+# catalog-version 1.5c
 Name:		texlive-pstool
-Version:	1.5b
-Release:	6
+Version:	1.5c
+Release:	1
 Summary:	Support for psfrag within pdfLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pstool
