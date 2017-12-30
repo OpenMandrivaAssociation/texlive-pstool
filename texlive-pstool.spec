@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version 1.5c
 Name:		texlive-pstool
-Version:	1.5c
-Release:	4
+Version:	1.5d
+Release:	1
 Summary:	Support for psfrag within pdfLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pstool
