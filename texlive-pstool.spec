@@ -3,7 +3,7 @@ Version:	46393
 Release:	2
 Summary:	Support for psfrag within pdfLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pstool
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pstool
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pstool.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pstool.doc.r%{version}.tar.xz
